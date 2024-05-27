@@ -1,2 +1,2 @@
-Repo for backedn development using javascript.
+Repo for backend development using javascript.
 ALX specialization
